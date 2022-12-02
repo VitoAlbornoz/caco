@@ -58,8 +58,8 @@ import yaml
 
 # to check 1st image
 import rawpy
-import scipy
-from scipy import misc
+import scipy import misc
+from scipy.misc import imsave
 import pkg_resources
 
 #--------------------------------------------------------------------------------
@@ -201,7 +201,7 @@ def ch_readable(path0):
             rawpy.imread(test_file)
         except Exception as e:
             test_raw = e
-            scipy.misc.imread(test_file)
+            scipy.misc.imsave(test_file)
         readable[0] = True
     except Exception as e:  # at list 1 file in the directory is not a photo or CaCo is not able to read it
         print(test_raw)
