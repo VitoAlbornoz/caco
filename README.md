@@ -9,17 +9,15 @@ https://doi.org/10.1007/s00468-018-1666-3
 * is a Free and Open Source software released under MIT licence
 
 
-## GETTING STARTED with CaCo v0.2.4
+## GETTING STARTED with CaCo v0.3.0
 
 ===============================================
 
-# Start installing CaCo... #
+# Start installing CaCo2... #
 
     LET'S HEAT UP THE ENVIRONMENTS:
 
     - for Windows, please check/install:
-        * Microsoft build tools 2015
-        http://landinghub.visualstudio.com/visual-cpp-build-tools
         * your favourite version of Python (recommended versions are: v2.7.8 or v3.6.4)
         https://www.python.org/downloads/windows/
 
@@ -32,15 +30,15 @@ https://doi.org/10.1007/s00468-018-1666-3
 
 
 
-    LET'S INSTALL AND USE CACO
+    LET'S INSTALL AND USE CACO 2
 
     - In your terminal emulator (or command prompt):
 
-        * install CaCo:
-        > python -m pip install --user caco
+        * install CaCo 2:
+        > python -m pip install --user caco2
 
-        * run CaCo
-        > python -m caco
+        * run CaCo 2
+        > python -m caco2
 
     If you use python3 and you get an error, try typing "python3" instead of "python"
 
