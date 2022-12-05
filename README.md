@@ -1,6 +1,6 @@
-# CaCo
+# CaCo 2
 An objective image analysis method for estimation of canopy attributes from digital cover photography.
-
+Upgraded version of CaCo.
 ## Caco:
 * is based on the paper of Alivernini, A., Fares, S., Ferrara, C. Chianucci, F., Trees 2018.
 https://doi.org/10.1007/s00468-018-1666-3
